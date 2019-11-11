@@ -15,6 +15,7 @@ feature 'Adobe' do
     # find( ta('adobe:smart:continueHeader')).click #Use headre% becouse it's only one clickable element of frame
     sleep 3
   end
+
 end
 
 
