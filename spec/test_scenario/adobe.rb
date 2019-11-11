@@ -16,7 +16,6 @@ feature 'Adobe' do
     sleep 3
   end
 
-
   
 end
 
