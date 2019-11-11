@@ -10,9 +10,6 @@ feature 'Adobe' do
 
     find(:xpath, ta('adobe:home:continueInEng', "(//button[@aria-label='Continue in English'])[1]")).click
 
-    # find( ta('adobe:smart:russiaLink')).click
-    # find( ta('adobe:smart:chatBtn')).click
-    # find( ta('adobe:smart:continueHeader')).click #Use headre% becouse it's only one clickable element of frame
     sleep 3
   end
 end
